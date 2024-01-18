@@ -1,0 +1,100 @@
+export const BookList = [
+    {
+        id: 1,
+        name: "The Alchemist",
+        author: "Paulo Coelho",
+        image: "https://m.media-amazon.com/images/I/515Y+jnvbeL._SY300_.jpg",
+        price: 10.99,
+        rating: 3,
+        publishYear: 1988,
+        isFavorite: true,
+    },
+
+    {
+        id: 2,
+        name: "The Monk Who Sold",
+        author: "Robin Sharma",
+        image: "https://m.media-amazon.com/images/I/41rigWn4cIL._SY300_.jpg",
+        price: 15.99,
+        rating: 4,
+        publishYear: 1999,
+        isFavorite: false,
+    },
+
+    {
+        id: 3,
+        name: "The Power of You",
+        author: "Joseph Murphy",
+        image: "https://m.media-amazon.com/images/I/41cpgvh4ItL._SY300_.jpg",
+        price: 12.99,
+        rating: 5,
+        publishYear: 2002,
+        isFavorite: false,
+    },
+
+    {
+        id: 4,
+        name: "The 5 AM Club",
+        author: "Robin Sharma",
+        image: "https://m.media-amazon.com/images/I/41mxLe2oz4S._SY300_.jpg",
+        price: 12.99,
+        rating: 5,
+        publishYear: 2018,
+        isFavorite: false,
+    },
+
+    {
+        id: 5,
+        name: "The Ferari in the Garage",
+        author: "Brock Batter",
+        image: "https://m.media-amazon.com/images/I/41rigWn4cIL._SY300_.jpg",
+        price: 12.99,
+        rating: 4,
+        publishYear: 2012,
+        isFavorite: false,
+    },
+
+    {
+        id: 6,
+        name: "Automate the Boring Stuff with Python",
+        author: "Al Sweigart",
+        image: "https://m.media-amazon.com/images/I/715PNi5Wa2L._AC_UY327_FMwebp_QL65_.jpg",
+        price: 12.99,
+        rating: 5,
+        publishYear: 2015,
+        isFavorite: false,
+    },
+
+    {
+        id: 7,
+        name: "Xan Everything",
+        author: "Wizards RPG Team",
+        image: "https://m.media-amazon.com/images/I/41IPjv1W2gL._SY300_.jpg",
+        price: 12.99,
+        rating: 3,
+        publishYear: 2017,
+        isFavorite: false,
+    },
+
+    {
+        id: 8,
+        name: "Sapiens: A History",
+        author: "Yuval Noah Harari",
+        image: "https://m.media-amazon.com/images/I/51z6dcwcOUL._SY300_.jpg",
+        price: 12.99,
+        rating: 4,
+        publishYear: 2017,
+        isFavorite: false,
+    },
+
+    {
+        id: 9,
+        name: "The 7 Habits of Highly Effective People",
+        author: "Stephen R. Covey",
+        image: "https://m.media-amazon.com/images/I/51cUVaBWZzL._SY300_.jpg",
+        price: 12.99,
+        rating: 4,
+        publishYear: 2017,
+        isFavorite: false,
+    },
+];
